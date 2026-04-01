@@ -85,6 +85,7 @@ Server runs on:
 ```
 http://localhost:5000
 ```
+<img width="500" height="500" alt="Screenshot 2026-03-31 225437" src="https://github.com/user-attachments/assets/9bef9f8f-52b2-4ace-896c-d0d54b8b6598" />
 
 ---
 
